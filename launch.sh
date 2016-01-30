@@ -186,5 +186,5 @@ else
     exit 1
   fi
 
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E --disable-link-preview $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/sbssxybot.lua -l 1 -E --disable-link-preview $@
 fi
