@@ -13,10 +13,11 @@ local function callback(extra, success, result)
 end
 
 local function run(msg)
-  if msg.service and msg.action.type == 'chat_add_user' then
+  if msg.service and msg.action.type == 'chat_add_user' and not is_sudo(msg) then
     local data = load_data(_config.moderation.data)
     if not data[tostring(msg.to.id)] then
       print "This is not our group. Leaving..."
+      return "babaim goft kos nanatoon goshade"
       chat_del_user('chat#id'..msg.to.id, 'user#id'..our_id, callback, false)
     end
   end
