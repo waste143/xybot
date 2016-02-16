@@ -1,17 +1,17 @@
 do 
 
 function run(msg, matches)
-  return "�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM is a�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM is attack�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM is atta�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM i�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM�🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attacking🔹🔸�🔹🔸🔵FLUXTERTEAM is attacking🔹🔸🔵🔹🔸🔵FLUXTERTEAM is attackin🔹🔸🔵FLUXTERTEAM is attacki is attackis attackickiittacki
+  return "�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team is a�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team is attack�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team is atta�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team i�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team�🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attacking🔹🔸�🔹🔸🔵SBSS Team is attacking🔹🔸🔵🔹🔸🔵SBSS Team is attackin🔹🔸🔵SBSS Team is attacki is attackis attackickiittacki
   end
   
   return {
-  description = "a plugin for FluxterTeam", 
+  description = "a plugin for SBSS Team", 
   usage = {
-  "!fluxterteam : fluxterspam",
-  "fluxterspm : fluxterteam spam",
+  "!SBSS Team : sbss spam",
+  "sbsspm : SBSS Team spam",
   patterns = {
-    "^[/](",
-    "^fluxterspm$",
+    "^sbssfuck$",
+	"^[Ss][Bb][Ss][Ss][Ff][Uu][Cc][Kk]$",
 
   },
   run = run
@@ -19,3 +19,4 @@ function run(msg, matches)
 
 end
   
+--tnx to fluxter team
